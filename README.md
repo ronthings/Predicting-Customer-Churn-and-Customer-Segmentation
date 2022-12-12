@@ -8,16 +8,17 @@ Primary objective was to predict customers at the risk of churn using an ecommer
 The notebooks in this repository follows a sequential path:
 
 - **Notebook #1 - Data Cleaning and Wrangling**
-In this notebook, I loaded the raw dataset from the source, conducted data cleaning where applicable, and dived into exploratory data analysis to obtain insights from the data prior to preprocessing and modelling.
+In this notebook, I loaded the raw dataset from the source, Kaggele datasets, merge the datasets, and cleaned the merged data where applicable. 
 
 - **Notebook #2 - Feature Engineering**
-In this notebook, I loaded the cleaned up and feature engineered dataset from Notebook #1, and transformed it to be model ready. This includes transforming categorical columns to numeric columns.
+In this notebook, I loaded the cleaned up from notebook, and feature engineered dataset, create new datasets to be used in notebooks 3, 4 and 5. 
 
 - **Notebook #3 - Data Exploration**
-In this notebook, I loaded the preprocessed, model ready dataset and fitted it on the models mentioned above. I then optimized the best performing base models to get even better model performance.
+In this notebook, I did some exploratory data analysis to obtain insights from the data prior to modelling.
 
 - **Notebook #4 - Modeling**
+In this notebook, the preprocessed feature engineered from Notebook 2 was used for modeling. I transformed the dataset priot to modeling. 
 
-- **Notebook #5 - Unsupervised Learning**
 
-- **Tableau File** - contains visuals created for the project.
+- **Notebook #5 - Unsupervised Learning** - This notebook contains Information on clutering used
+
