@@ -20,5 +20,5 @@ In this notebook, I did some exploratory data analysis to obtain insights from t
 In this notebook, the preprocessed feature engineered from Notebook 2 was used for modeling. I transformed the dataset priot to modeling. 
 
 
-- **Notebook #5 - Unsupervised Learning** - This notebook contains Information on clutering used
+- **Notebook #5 - Unsupervised Learning** - This notebook contains Information on clutering.
 
