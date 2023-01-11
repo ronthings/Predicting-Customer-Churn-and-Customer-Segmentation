@@ -19,6 +19,6 @@ In this notebook, I did some exploratory data analysis to obtain insights from t
 - **Notebook #4 - Modeling**
 In this notebook, the preprocessed feature engineered from Notebook 2 was used for modeling. I transformed the dataset priot to modeling. 
 
-
-- **Notebook #5 - Unsupervised Learning** - This notebook contains Information on clutering.
+- **Notebook #5 - Unsupervised Learning** 
+In this notebook customers were segmented using k-means clustering.
 
