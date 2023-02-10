@@ -1,5 +1,4 @@
-# CapStone_BrainStation
-The project was prepared as a final fulfillment of BrainStaion Data Science Course.
+# Predicting Customer Churn and Segmentation 
 
 Primary objective was to predict customers at the risk of churn using an ecommerce industry data (https://www.kaggle.com/datasets/olistbr/brazilian-ecommerce) and different model algorithms.
 
